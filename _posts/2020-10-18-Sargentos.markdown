@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Example 5"
-description: Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Duis vehicula tincidunt lacus nec fringilla. Morbi molestie fringilla laoreet. Vestibulum venenatis ante in imperdiet venenatis. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Duis vehicula tincidunt lacus nec fringilla. Morbi molestie fringilla laoreet. Vestibulum venenatis ante in imperdiet venenatis. 
-date:   2016-06-13 10:51:47 +0530
+title:  "Sargentos"
+description: Sargentos...
+date:   2020-10-18 10:51:47 +0530
 categories: jekyll update
 img: image-2.jpg
 categories: [one, two]
 color: 7E57C2
-author: webjeda
+author: Jorge
 ---
 
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
