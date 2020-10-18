@@ -15,7 +15,7 @@ Dipenador de gel a pedal
 3. Funciona a pedal
 4. Producto artesanal
 
-| Precio: <b style='color:green'> $ 24,00 </b>
+| Precio: <b style='color:green'> $ 24,00 </b> |
 
 ![Karna]({{site.baseurl}}/images/dipensador2.jpg)
 ![Karna]({{site.baseurl}}/images/dipensador3.jpg)
