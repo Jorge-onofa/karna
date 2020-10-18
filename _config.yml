@@ -1,6 +1,6 @@
 
 title: Mecánica
-desctiption: Este sitio es destinado a productos rtesanale realizados por mi padre
+desctiption: Este sitio es destinado a productos artesanales realizados por mi padre
 url: http://webjeda.com/
 permalink: ':title/'
 
@@ -29,9 +29,6 @@ highlight: rouge
 
 # Tracker
 analytics: UA-83979019-1
-
-# Comments
-disqus-shortname: 
 
 # Contact form
 # Go to https://getsimpleform.com and get a API token by signing up with your email and enter that here
