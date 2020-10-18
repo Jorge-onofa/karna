@@ -1,6 +1,6 @@
 
 title: Mecánica
-desctiption: Karna is a responsive jekyll theme which includes pinterest like pins.
+desctiption: Este sitio es destinado a productos rtesanale realizados por mi padre
 url: http://webjeda.com/
 permalink: ':title/'
 
@@ -31,7 +31,7 @@ highlight: rouge
 analytics: UA-83979019-1
 
 # Comments
-disqus-shortname: webjeda-demo
+disqus-shortname: 
 
 # Contact form
 # Go to https://getsimpleform.com and get a API token by signing up with your email and enter that here
