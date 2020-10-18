@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Dispensador de Gel"
-description: Dispenador de gel a pedal
-date:   2016-06-13 10:51:47 +0530
+description: Dispenador de gel a pedal artesanal...
+date:   2020-10-18 10:51:47 +0530
 categories: jekyll update
 img: portada-dispensador.jpg
 categories: [one, two]
@@ -17,8 +17,8 @@ Dipenador de gel a pedal
 
 | Precio: <b style='color:green'> $ 24,00 </b>
 
-![Karna]({{site.baseurl}}/images/dipendasor2.jpg)
-![Karna]({{site.baseurl}}/images/dipendasor3.jpg)
-![Karna]({{site.baseurl}}/images/dipendasor1.jpg)
+![Karna]({{site.baseurl}}/images/dipensador2.jpg)
+![Karna]({{site.baseurl}}/images/dipensador3.jpg)
+![Karna]({{site.baseurl}}/images/dipensador1.jpg)
 
 
