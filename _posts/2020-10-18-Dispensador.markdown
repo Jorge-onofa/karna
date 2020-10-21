@@ -31,6 +31,7 @@ Dipenador de gel a pedal
 
 ![Karna]({{site.baseurl}}/images/dispensador.mp4)
 
+<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
 
 [logo]: https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/linkw.jpg
 [dipensador]: https://api.whatsapp.com/send?phone=&text=Hola!%20Me%20interesa%20el%20dipensador%20de%20gel%20a%20pedal "clic para abrir chat de whatsapp"
