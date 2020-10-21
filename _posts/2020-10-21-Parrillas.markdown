@@ -12,6 +12,9 @@ author: Jorge
 1. Parrilla de cualquier tamaño
 2. Acero inoxidable
 
+<img src="https://github.com/Jorge-onofa/karna/blob/gh-pages/images/parrilla1.jpg?raw=true" width="300" height="400" />
+
+
 ![Karna]({{site.baseurl}}/images/parrilla1.jpg)
 
 ![Karna]({{site.baseurl}}/images/parrilla2.jpg)
