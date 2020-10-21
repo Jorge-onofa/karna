@@ -11,8 +11,6 @@ author: Jorge
 ---
 1. Parrilla de cualquier tamaño
 2. Acero inoxidable
-3. Con base o sin base
-4. 
 
 ![Karna]({{site.baseurl}}/images/parrilla1.jpg)
 
