@@ -18,7 +18,7 @@ Dipenador de gel a pedal
 
 ![Karna]({{site.baseurl}}/images/dispensador2.jpg)
 
-<img src="https://raw.githubusercontent.com/Jorge-onofa/karna/gh-pages/images/dispensador.gif" width="200" height="300" />
+<img src="https://raw.githubusercontent.com/Jorge-onofa/karna/gh-pages/images/dispensador.gif" width="300" height="400" />
 
 ![Karna]({{site.baseurl}}/images/dispensador3.jpg)
 
