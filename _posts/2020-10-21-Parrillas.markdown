@@ -4,7 +4,7 @@ title:  "Parrillas"
 description:   
 date:   2016-06-13 10:51:47 +0530
 categories: jekyll update
-img: parrilla2.jpg
+img: parrilla1.jpg
 categories: [one, two]
 color: 9E9D24
 author: Jorge
