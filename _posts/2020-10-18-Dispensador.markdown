@@ -18,25 +18,12 @@ Dipenador de gel a pedal
 
 ![Karna]({{site.baseurl}}/images/dispensador2.jpg)
 
+<img src="https://raw.githubusercontent.com/Jorge-onofa/karna/gh-pages/images/dispensador.gif" width="200" height="300" />
+
 ![Karna]({{site.baseurl}}/images/dispensador3.jpg)
 
 ![Karna]({{site.baseurl}}/images/dispensador1.jpg)
 
-
-![Gatito](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
-
-<img src="https://raw.githubusercontent.com/Jorge-onofa/karna/gh-pages/images/dispensador.gif" width="100" height="200" />
-
-![Gatito](https://raw.githubusercontent.com/Jorge-onofa/karna/gh-pages/images/dispensador.gif)
-
-
-
-![Dispensador](https://github.com/Jorge-onofa/karna/blob/gh-pages/images/dispensador.mp4?raw=true)
-
-
-![Karna]({{site.baseurl}}/images/dispensador.mp4)
-
-<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
 
 [logo]: https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/linkw.jpg
 [dipensador]: https://api.whatsapp.com/send?phone=&text=Hola!%20Me%20interesa%20el%20dipensador%20de%20gel%20a%20pedal "clic para abrir chat de whatsapp"
