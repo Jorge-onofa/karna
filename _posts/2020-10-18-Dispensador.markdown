@@ -23,7 +23,10 @@ Dipenador de gel a pedal
 ![Karna]({{site.baseurl}}/images/dispensador1.jpg)
 
 
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Gatito](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+
+
+![Dispensador](https://github.com/Jorge-onofa/karna/blob/gh-pages/images/dispensador.mp4?raw=true)
 
 
 [logo]: https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/linkw.jpg
