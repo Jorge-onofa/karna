@@ -16,10 +16,16 @@ author: Jorge
 <img src="https://github.com/Jorge-onofa/karna/blob/gh-pages/images/parrilla1.jpg?raw=true" width="400" height="500" />
 </center>
 
+<center>
 <img src="https://github.com/Jorge-onofa/karna/blob/gh-pages/images/parrilla2.jpg?raw=true" width="500" height="400" />
+</center>
 
+<center>
 <img src="https://github.com/Jorge-onofa/karna/blob/gh-pages/images/parrilla3.jpg?raw=true" width="500" height="400" />
+</center>
 
+<center>
 [logo]: https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/linkw.jpg
 [dipensador]: https://api.whatsapp.com/send?phone=593999378989&text=%C2%A1Hola!%20Me%20interesa%20una%20parrilla "clic para abrir chat de whatsapp"
  [![logo de yanbal][logo]][dipensador]
+ </center>
