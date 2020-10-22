@@ -13,7 +13,7 @@ author: Jorge
 2. Acero inoxidable
 
 <center>
-<img src="https://github.com/Jorge-onofa/karna/blob/gh-pages/images/parrilla1.jpg?raw=true" width="400" height="500" />
+<img src="https://github.com/Jorge-onofa/karna/blob/gh-pages/images/parrilla1.jpg?raw=true" width="350" height="450" />
 </center>
 
 <center>
