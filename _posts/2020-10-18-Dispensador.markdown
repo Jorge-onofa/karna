@@ -17,7 +17,7 @@ Dipenador de gel a pedal
 5. Precio: <b style='color:green'> $ 24,00 </b> 
 
 <center>
-<img src="https://raw.githubusercontent.com/Jorge-onofa/karna/gh-pages/images/dispensador2.gif" width="300" height="400" />
+<img src="https://raw.githubusercontent.com/Jorge-onofa/karna/gh-pages/images/dispensador2.jpg" width="300" height="400" />
 </center>
 
 <center>
@@ -25,11 +25,11 @@ Dipenador de gel a pedal
 </center>
 
 <center>
-<img src="https://raw.githubusercontent.com/Jorge-onofa/karna/gh-pages/images/dispensador3.gif" width="300" height="400" />
+<img src="https://raw.githubusercontent.com/Jorge-onofa/karna/gh-pages/images/dispensador3.jpg" width="300" height="400" />
 </center>
 
 <center>
-<img src="https://raw.githubusercontent.com/Jorge-onofa/karna/gh-pages/images/dispensador1.gif" width="300" height="400" />
+<img src="https://raw.githubusercontent.com/Jorge-onofa/karna/gh-pages/images/dispensador1.jpg" width="300" height="400" />
 </center>
 
 [logo]: https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/linkw.jpg
