@@ -19,15 +19,15 @@ Dipenador de gel a pedal
 <center>
 <img src="https://raw.githubusercontent.com/Jorge-onofa/karna/gh-pages/images/dispensador2.jpg" width="300" height="400" />
 </center>
-
+<br>
 <center>
 <img src="https://raw.githubusercontent.com/Jorge-onofa/karna/gh-pages/images/dispensador.gif" width="300" height="400" />
 </center>
-
+<br>
 <center>
 <img src="https://raw.githubusercontent.com/Jorge-onofa/karna/gh-pages/images/dispensador3.jpg" width="300" height="400" />
 </center>
-
+<br>
 <center>
 <img src="https://raw.githubusercontent.com/Jorge-onofa/karna/gh-pages/images/dispensador1.jpg" width="300" height="400" />
 </center>
