@@ -1,0 +1,25 @@
+---
+layout: post
+title:  "Andamios!"
+description: Andamios venta y alquiler...
+date:   2020-11-10 10:51:47 +0530
+categories: jekyll update
+img: portada-andamios.jpg
+categories: [one, two]
+color: 43A047
+author: Jorge
+---
+1. Andamios con ruedas y freno
+2. Venta y alquiler
+
+<center>
+<img src="https://raw.githubusercontent.com/Jorge-onofa/karna/gh-pages/images/andamios1.jpg" width="300" height="400" />
+</center>
+
+<center>
+<img src="https://raw.githubusercontent.com/Jorge-onofa/karna/gh-pages/images/andamios6.jpg" width="300" height="400" />
+</center>
+
+<center>
+**Sangolquí - Ecuador** 
+</center>
