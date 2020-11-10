@@ -17,7 +17,7 @@ author: Jorge
 </center>
 
 <center>
-<img src="https://raw.githubusercontent.com/Jorge-onofa/karna/gh-pages/images/andamios6.jpg" width="300" height="400" />
+<img src="https://raw.githubusercontent.com/Jorge-onofa/karna/gh-pages/images/andamios5.jpg" width="300" height="400" />
 </center>
 
 <center>
