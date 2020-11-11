@@ -15,11 +15,15 @@ author: Jorge
 <center>
 <img src="https://raw.githubusercontent.com/Jorge-onofa/karna/gh-pages/images/andamios1.jpg" width="300" height="400" />
 </center>
-
+<br>if
+<center>
+<img src="https://raw.githubusercontent.com/Jorge-onofa/karna/gh-pages/images/andamiosp.gif" width="300" height="400" />
+</center>
+<br>
 <center>
 <img src="https://raw.githubusercontent.com/Jorge-onofa/karna/gh-pages/images/andamios5.jpg" width="300" height="400" />
 </center>
-
+<br>
 <center>
-**Sangolquí - Ecuador** 
+Sangolquí - Ecuador
 </center>
