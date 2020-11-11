@@ -1,12 +1,12 @@
 
 title: Mecánica
 desctiption: Productos artesanales - metal mecánica
-url: https://jorge-onofa.github.io/karna/
+url: "https://jorge-onofa.github.io/karna/"
 permalink: ':title/'
 
 markdown: kramdown
 baseurl: "/karna"
-full-version: "http://webjeda.com/karna-full/"
+full-version: "https://jorge-onofa.github.io/karna/"
 
 sass:
     style: compressed
