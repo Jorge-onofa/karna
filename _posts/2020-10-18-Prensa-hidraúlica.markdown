@@ -32,5 +32,5 @@ author: Jorge
 <br>
 
 [logo]: https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/linkw.jpg
-[dipensador]: https://api.whatsapp.com/send?phone=593999378989&text=%C2%A1Hola!%20Me%20interesa%20la%20prensa%20hidra%C3%BAlica%20de%2010%20toneladas "clic para abrir chat de whatsapp"
+[dipensador]: https://api.whatsapp.com/send?phone=593999378989&text=%C2%A1Hola!%20Me%20interesa%20la%20prensa%20hidr%C3%A1ulica%20de%2010%20toneladas "clic para abrir chat de whatsapp"
 [![logo de yanbal][logo]][dipensador]
