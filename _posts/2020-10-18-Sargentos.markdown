@@ -9,23 +9,31 @@ categories: [one, two]
 color: BF360C
 author: Jorge
 ---
+<center>
+<img src="https://github.com/Jorge-onofa/karna/blob/gh-pages/images/sargento1.jpg?raw=true" width="350" height="450" />
+</center>
+<br>
+<center>
+<img src="https://github.com/Jorge-onofa/karna/blob/gh-pages/images/sargento2.jpg?raw=true" width="350" height="450" />
+</center>
+<br>
+<center>
+<img src="https://github.com/Jorge-onofa/karna/blob/gh-pages/images/sargento3.jpg?raw=true" width="350" height="450" />
+</center>
+<br>
+<center>
+<img src="https://github.com/Jorge-onofa/karna/blob/gh-pages/images/sargento4.jpg?raw=true" width="350" height="450" />
+</center>
+<br>
+<center>
+<img src="https://github.com/Jorge-onofa/karna/blob/gh-pages/images/sargento5.jpg?raw=true" width="350" height="450" />
+</center>
+<br>
 
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+[logo]: https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/linkw.jpg
+[dipensador]: https://api.whatsapp.com/send?phone=593999378989&text=%C2%A1Hola!%20Me%20interesa%20los%20sargentos%20met%C3%A1licos "clic para abrir chat de whatsapp"
+[![logo de yanbal][logo]][dipensador]
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+<center>
+Sangolquí - Ecuador
+</center>
