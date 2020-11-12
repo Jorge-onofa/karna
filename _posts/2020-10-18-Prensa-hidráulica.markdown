@@ -30,15 +30,17 @@ author: Jorge
 <center>
 <img src="https://github.com/Jorge-onofa/karna/blob/gh-pages/images/prensa6.jpg?raw=true" width="350" height="450" />
 </center>
+<br><center>
+<img src="https://github.com/Jorge-onofa/karna/blob/gh-pages/images/prensa6.jpg?raw=true" width="350" height="450" />
+</center>
 <br>
-<center>
+
 [logo]: https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/linkw.jpg
 [dipensador]: https://api.whatsapp.com/send?phone=593999378989&text=%C2%A1Hola!%20Me%20interesa%20la%20prensa%20hidr%C3%A1ulica%20de%2010%20toneladas "clic para abrir chat de whatsapp"
 [![logo de yanbal][logo]][dipensador]
-</center>
-
 
 <center>
 Sangolquí - Ecuador
 </center>
+
 
