@@ -2,7 +2,7 @@
 layout: post
 title:  "Sargentos"
 description: Sargentos...
-date:   2020-10-18 10:51:47 +0530
+date:   2020-11-12 10:50:47 +0530
 categories: jekyll update
 img: portada-sargentos.jpg
 categories: [one, two]
@@ -23,10 +23,6 @@ author: Jorge
 <br>
 <center>
 <img src="https://github.com/Jorge-onofa/karna/blob/gh-pages/images/sargento4.jpg?raw=true" width="350" height="450" />
-</center>
-<br>
-<center>
-<img src="https://github.com/Jorge-onofa/karna/blob/gh-pages/images/sargento5.jpg?raw=true" width="350" height="450" />
 </center>
 <br>
 
