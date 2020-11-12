@@ -15,19 +15,19 @@ author: Jorge
 </center>
 <br>
 <center>
-<img src="https://github.com/Jorge-onofa/karna/blob/gh-pages/images/prensa2.jpg?raw=true" width="500" height="400" />
+<img src="https://github.com/Jorge-onofa/karna/blob/gh-pages/images/prensa2.jpg?raw=true" width="350" height="450" />
 </center>
 <br>
 <center>
-<img src="https://github.com/Jorge-onofa/karna/blob/gh-pages/images/prensa4.jpg?raw=true" width="500" height="400" />
+<img src="https://github.com/Jorge-onofa/karna/blob/gh-pages/images/prensa4.jpg?raw=true" width="350" height="450" />
 </center>
 <br>
 <center>
-<img src="https://github.com/Jorge-onofa/karna/blob/gh-pages/images/prensa5.jpg?raw=true" width="500" height="400" />
+<img src="https://github.com/Jorge-onofa/karna/blob/gh-pages/images/prensa5.jpg?raw=true" width="350" height="450" />
 </center>
 <br>
 <center>
-<img src="https://github.com/Jorge-onofa/karna/blob/gh-pages/images/prensa6.jpg?raw=true" width="500" height="400" />
+<img src="https://github.com/Jorge-onofa/karna/blob/gh-pages/images/prensa6.jpg?raw=true" width="350" height="450" />
 </center>
 <br>
 
