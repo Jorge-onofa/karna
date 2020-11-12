@@ -40,3 +40,10 @@ version: 0.8
 plugins: 
     - jekyll-paginate
     - jekyll-seo-tag
+    - jekyll-paginate
+
+gems:
+  - jekyll-paginate
+  - jekyll-sitemap
+
+exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]    
