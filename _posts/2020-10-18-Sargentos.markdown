@@ -4,7 +4,7 @@ title:  "Sargentos"
 description: Sargentos...
 date:   2020-10-18 10:51:47 +0530
 categories: jekyll update
-img: image-2.jpg
+img: portada-sargentos.jpg
 categories: [one, two]
 color: BF360C
 author: Jorge
