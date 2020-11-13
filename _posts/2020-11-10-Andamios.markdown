@@ -13,7 +13,7 @@ author: Jorge
 2. Venta y alquiler
 
 <center>
-<img src="https://raw.githubusercontent.com/Jorge-onofa/karna/gh-pages/images/andamios1.jpg" width="300" height="400" />
+<img src="https://raw.githubusercontent.com/Jorge-onofa/karna/gh-pages/images/andamios7.jpg" width="300" height="400" />
 </center>
 <br>
 <center>
@@ -25,5 +25,13 @@ author: Jorge
 </center>
 <br>
 <center>
-Sangolquí - Ecuador
+<img src="https://raw.githubusercontent.com/Jorge-onofa/karna/gh-pages/images/andamios8.jpg" width="300" height="400" />
+</center>
+<br>
+<center>
+<img src="https://raw.githubusercontent.com/Jorge-onofa/karna/gh-pages/images/andamios9.jpg" width="300" height="400" />
+</center>
+<br>
+<center>
+Sangolquí - Ecuador <i class="fa fa-map-marker" aria-hidden="true"></i>
 </center>
