@@ -2,15 +2,19 @@
 layout: post
 title:  "Andamios!"
 description: Andamios venta y alquiler...
-date:   2020-11-10 10:51:47 +0530
+date:   2020-11-14 18:03:47 +0530
 categories: jekyll update
 img: portada-andamios.jpg
 categories: [one, two]
 color: 43A047
 author: Jorge
 ---
-1. Andamios con ruedas y freno
-2. Venta y alquiler
+1. Diámetro del tubo andamio
+2. Espesor del tubo andamio
+3. Diámetro del tubo tijera
+4. Espesor del tubo tijera 
+5. Alquiler: <b style='color:green'> $ 1,00 </b> diario 
+5. Venta: <b style='color:green'> $ 80,00 </b>  
 
 <center>
 <img src="https://raw.githubusercontent.com/Jorge-onofa/karna/gh-pages/images/andamios7.jpg" width="300" height="400" />
@@ -32,6 +36,4 @@ author: Jorge
 <img src="https://raw.githubusercontent.com/Jorge-onofa/karna/gh-pages/images/andamios9.jpg" width="300" height="400" />
 </center>
 <br>
-<center>
-Sangolquí - Ecuador <i class="fa fa-map-marker" aria-hidden="true"></i>
-</center>
+
