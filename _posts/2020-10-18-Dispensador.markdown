@@ -2,7 +2,7 @@
 layout: post
 title:  "Dispensador de Gel"
 description: Dispenador de gel a pedal artesanal...
-date:   2020-10-18 10:51:47 +0530
+date:   2020-11-14 10:51:47 +0530
 categories: jekyll update
 img: portada-dispensador.jpg
 categories: [one, two]
