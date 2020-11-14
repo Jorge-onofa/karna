@@ -208,9 +208,9 @@ footer {
     padding: 50px;
 }
 
-.post_share a {
-  font-size: 0.9rem;
-}
+.post_share
+      float: none
+      margin-bottom: 0.5rem
 
 header {
     min-height: 60px;
