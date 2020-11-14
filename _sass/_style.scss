@@ -164,6 +164,22 @@
     }
 }
 
+.post_share {
+    position: absolute;
+    right: 5%;
+    top: 2%;
+    display: none;
+
+}
+.post_share .fa, a .fa {
+    margin-left: 5px;
+    cursor: pointer;
+    color: #eee;
+    opacity: 0.9;
+        &:hover {
+        opacity: 1;
+    }
+}
 
 .page-container {
     margin: 0 auto;
@@ -208,9 +224,7 @@ footer {
     padding: 50px;
 }
 
-.post_share
-      float: none
-      margin-bottom: 0.5rem
+
 
 header {
     min-height: 60px;
