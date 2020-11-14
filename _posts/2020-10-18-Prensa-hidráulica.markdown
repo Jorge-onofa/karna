@@ -10,7 +10,20 @@ color: '006064'
 author: Jorge
 ---
 1. Prensa hidráulica 10 toneladas
+2. Precio : <b style='color:green'> $ 1,00 </b> diario 
 
+<center>
+<img src="https://github.com/Jorge-onofa/karna/blob/gh-pages/images/prensap.gif?raw=true" width="350" height="450" />
+</center>
+<br>
+<center>
+<img src="https://github.com/Jorge-onofa/karna/blob/gh-pages/images/prensa7.jpg?raw=true" width="350" height="450" />
+</center>
+<br>
+<center>
+<img src="https://github.com/Jorge-onofa/karna/blob/gh-pages/images/prensa9.jpg?raw=true" width="350" height="450" />
+</center>
+<br>
 <center>
 <img src="https://github.com/Jorge-onofa/karna/blob/gh-pages/images/prensa1.jpg?raw=true" width="350" height="450" />
 </center>
@@ -30,17 +43,8 @@ author: Jorge
 <center>
 <img src="https://github.com/Jorge-onofa/karna/blob/gh-pages/images/prensa6.jpg?raw=true" width="350" height="450" />
 </center>
-<br><center>
-<img src="https://github.com/Jorge-onofa/karna/blob/gh-pages/images/prensa6.jpg?raw=true" width="350" height="450" />
-</center>
 <br>
 
 [logo]: https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/linkw.jpg
 [dipensador]: https://api.whatsapp.com/send?phone=593999378989&text=%C2%A1Hola!%20Me%20interesa%20la%20prensa%20hidr%C3%A1ulica%20de%2010%20toneladas "clic para abrir chat de whatsapp"
 [![logo de yanbal][logo]][dipensador]
-
-<center>
-Sangolquí - Ecuador
-</center>
-
-
