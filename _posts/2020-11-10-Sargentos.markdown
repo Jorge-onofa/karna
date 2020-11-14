@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Sargentos"
+title:  "Sargentos metálicos"
 description: Sargentos...
-date:   2020-11-12 10:50:47 +0530
+date:   2020-11-10 10:50:47 +0530
 categories: jekyll update
 img: portada-sargentos.jpg
 categories: [one, two]
@@ -30,6 +30,4 @@ author: Jorge
 [dipensador]: https://api.whatsapp.com/send?phone=593999378989&text=%C2%A1Hola!%20Me%20interesa%20los%20sargentos%20met%C3%A1licos "clic para abrir chat de whatsapp"
 [![logo de yanbal][logo]][dipensador]
 
-<center>
-Sangolquí - Ecuador
-</center>
+
