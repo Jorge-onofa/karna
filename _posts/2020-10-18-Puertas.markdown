@@ -18,13 +18,5 @@ author: Jorge
 <center>
 <img src="https://raw.githubusercontent.com/Jorge-onofa/karna/gh-pages/images/puerta3.jpg" width="300" height="400" />
 </center>
-<br>
-<center>
-<img src="https://raw.githubusercontent.com/Jorge-onofa/karna/gh-pages/images/puerta1.jpg" width="300" height="400" />
-</center>
-<br>
-<center>
-Sangolquí - Ecuador
-</center>
 
 
