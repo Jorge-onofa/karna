@@ -1,12 +1,13 @@
 
-title: Mecánica
-desctiption: Productos artesanales - metal mecánica
+
+title: Pastinak
+desctiption: Pastinak is a blog on math, statistics, data mining and cooking.
+url: https://www.pastinak.cz/
 permalink: ':title/'
 
 markdown: kramdown
-baseurl: "https://jorge-onofa.github.io/karna"
-url: "https://jorge-onofa.github.io/karna"
-full-version: "https://jorge-onofa.github.io/karna"
+baseurl: ""
+
 
 sass:
     style: compressed
@@ -30,6 +31,9 @@ highlight: rouge
 # Tracker
 analytics: UA-182336801-2
 
+# Comments
+disqus-shortname: pastinak
+
 # Contact form
 # Go to https://getsimpleform.com and get a API token by signing up with your email and enter that here
 api-token:   
@@ -37,13 +41,4 @@ api-token:
 include: [_pages]
 version: 0.8
 
-plugins: 
-    - jekyll-paginate
-    - jekyll-seo-tag
-    - jekyll-paginate
-
-gems:
-  - jekyll-paginate
-  - jekyll-sitemap
-
-exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]    
+gems: [jekyll-paginate, jekyll-seo-tag]
