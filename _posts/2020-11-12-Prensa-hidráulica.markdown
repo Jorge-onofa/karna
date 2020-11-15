@@ -10,7 +10,7 @@ color: '006064'
 author: Jorge
 ---
 1. Prensa hidráulica 10 toneladas
-2. Precio : <b style='color:green'> $ 1,00 </b> diario 
+2. Precio : <b style='color:green'> $ 150,00 </b>
 
 <center>
 <img src="https://github.com/Jorge-onofa/karna/blob/gh-pages/images/prensap.gif?raw=true" width="350" height="450" />
