@@ -1,5 +1,5 @@
 ---
-title: Reseña
+title: About
 layout: post
 permalink: /about/
 ---
