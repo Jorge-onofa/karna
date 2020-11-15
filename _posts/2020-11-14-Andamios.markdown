@@ -36,4 +36,8 @@ author: Jorge
 <img src="https://raw.githubusercontent.com/Jorge-onofa/karna/gh-pages/images/andamios9.jpg" width="300" height="400" />
 </center>
 <br>
+[logo]: https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/linkw.jpg
+[dipensador]: https://api.whatsapp.com/send?phone=593999378989&text=%C2%A1Hola!%20Me%20interesa%20los%20andamios "clic para abrir chat de whatsapp"
+[![logo de yanbal][logo]][dipensador]
+<br>
 
