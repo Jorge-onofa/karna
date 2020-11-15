@@ -2,7 +2,7 @@
 
 title: Pastinak
 desctiption: Pastinak is a blog on math, statistics, data mining and cooking.
-url: https://www.pastinak.cz/
+url: https://jorge-onofa.github.io/karna/
 permalink: ':title/'
 
 markdown: kramdown
