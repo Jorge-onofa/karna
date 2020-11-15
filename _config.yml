@@ -1,10 +1,12 @@
 title: Mecánica
-desctiption: Productos artesanales - metal mecánica
+desctiption: Este sitio es destinado a productos artesanales realizados por mi padre
+url: http://webjeda.com/
 permalink: ':title/'
+
 markdown: kramdown
-baseurl: "https://jorge-onofa.github.io/karna"
-url: "https://jorge-onofa.github.io/karna"
-full-version: "https://jorge-onofa.github.io/karna"
+baseurl: "/karna"
+full-version: "http://webjeda.com/karna-full/"
+
 sass:
     style: compressed
   
