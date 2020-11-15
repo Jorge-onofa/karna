@@ -4,8 +4,8 @@ desctiption: Productos artesanales - metal mecánica
 permalink: ':title/'
 
 markdown: kramdown
-baseurl: "http://jorge-onofa.github.io/karna"
-url: "http://jorge-onofa.github.io/karna"
+baseurl: "https://jorge-onofa.github.io/karna"
+url: "https://jorge-onofa.github.io/karna"
 full-version: "https://jorge-onofa.github.io/karna"
 
 sass:
