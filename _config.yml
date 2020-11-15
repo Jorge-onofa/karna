@@ -1,9 +1,10 @@
+title: Mecánica
+desctiption: Productos artesanales - metal mecánica
 permalink: ':title/'
-
 markdown: kramdown
 baseurl: "https://jorge-onofa.github.io/karna"
 url: "https://jorge-onofa.github.io/karna"
-
+full-version: "https://jorge-onofa.github.io/karna"
 sass:
     style: compressed
   
@@ -19,8 +20,12 @@ compress_html:
   profile: false
   startings: []
 highlight: rouge
+
+
 # Tracker
+analytics: UA-83979019-1
 analytics: UA-182336801-2
+
 # Contact form
 # Go to https://getsimpleform.com and get a API token by signing up with your email and enter that here
 api-token:   
