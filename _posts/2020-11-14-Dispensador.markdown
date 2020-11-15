@@ -9,7 +9,7 @@ categories: [one, two]
 color: 1976D2
 author: Jorge
 ---
-Dipenador de gel a pedal
+Dispensador de gel a pedal
 1. Altura del dispensador 1.10 m
 2. Altura de la botella regulable
 3. Funciona a pedal
