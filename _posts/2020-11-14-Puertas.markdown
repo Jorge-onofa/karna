@@ -19,4 +19,6 @@ author: Jorge
 <img src="https://raw.githubusercontent.com/Jorge-onofa/karna/gh-pages/images/puerta3.jpg" width="300" height="400" />
 </center>
 
-
+[logo]: https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/linkw.jpg
+[dipensador]: https://api.whatsapp.com/send?phone=593999378989&text=%C2%A1Hola!%20Me%20interesa%20una%20puerta%20met%C3%A1lica "clic para abrir chat de whatsapp"
+[![logo de yanbal][logo]][dipensador]
