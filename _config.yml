@@ -28,13 +28,10 @@ analytics: UA-182336801-2
 # Contact form
 # Go to https://getsimpleform.com and get a API token by signing up with your email and enter that here
 api-token:   
+
 include: [_pages]
 version: 0.8
+
 plugins: 
     - jekyll-paginate
     - jekyll-seo-tag
-    - jekyll-paginate
-gems:
-  - jekyll-paginate
-  - jekyll-sitemap
-exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]  
