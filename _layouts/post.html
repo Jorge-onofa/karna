@@ -10,7 +10,8 @@ layout: default
     <article>
         <h1 class="page-title">{{page.title}}</h1>
         {% if page.author %}
-        <div class="meta"><span><i class="fa fa-calendar-o" aria-hidden="true"></i> {{page.date | date: '%Y, %b %d'}}&nbsp;&nbsp;&nbsp;&nbsp;</span><span><i class="fa fa-pencil-square-o" aria-hidden="true"></i> {{page.author}}</span></div>
+        <div class="meta"><span><i class="fa fa-calendar-o" aria-hidden="true"></i> {{page.date | date: '%Y, %b %d'}}&nbsp;&nbsp;&nbsp;&nbsp;</span><span><i class="fa fa-pencil-square-o" aria-hidden="true"></i> {{page.author}}</span></div><span class="author_phone"><i class="fa fa-phone" aria-hidden="true"></i> <a href="tel:+593 999378989">0999378989</a></span> 
+   
         {% endif %}
         {{page.content | markdownify}}
    
