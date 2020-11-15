@@ -6,7 +6,7 @@ date:   2020-11-13 10:51:47 +0530
 categories: jekyll update
 img: portada-escaleras.jpg
 categories: [one, two]
-color: 9E9D24
+color: fca31a
 author: Jorge
 ---
 1. Escaleras metálicas
