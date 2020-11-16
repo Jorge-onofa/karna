@@ -3,16 +3,19 @@ layout: default
 ---
 <div id="container">
 <div id="grid" data-columns class="cols">
+    
     {% for post in site.posts %}
     <div class="box" style="background-color:#{{post.color}}">
+       <a href="{{post.url | prepend: site.baseurl}}">
        {% if post.img %}
           <img class="feat-image" src={{ "/images/" | prepend: site.baseurl | append: post.img }} alt="{{post.title}}">
        {% endif %}
           <div class="container">
             <h4>{{post.title}}</h4>
             <p>{{post.description}}</p>
-             <div class="action">{{ post.date | date: '%B %d, %Y' }}<a href="{{post.url | prepend: site.baseurl}}"> Leer más<i class="fa fa-arrow-right fa-2x fa-fw" aria-hidden="true"></i></a></div> 
-        </div>   
+             <div class="action">{{ post.date | date: '%B %d, %Y' }} Leer más<i class="fa fa-arrow-right fa-2x fa-fw" aria-hidden="true"></i></div> 
+        </div> 
+        </a>
     </div>
    {% endfor %}
 
