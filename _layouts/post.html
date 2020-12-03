@@ -34,7 +34,7 @@ layout: default
           {% if post.title %}
             <a href="{{ post.url | prepend: site.baseurl }}"
               class="recent_item"
-              style="background-image: url( {{ "/assets/img/" | prepend: site.baseurl | append : post.img}} )"> <i class="fa fa-external-link" aria-hidden="true"></i>
+              style="background-image: url( {{ "/assets/img/" | prepend: site.baseurl | append : page.img}} )"> <i class="fa fa-external-link" aria-hidden="true"></i>
 
                 <span>{{ post.title }}</span>
             </a>
