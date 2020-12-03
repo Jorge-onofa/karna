@@ -37,7 +37,7 @@ layout: default
               style="background-image: url( {{ "/assets/img/" | prepend: site.baseurl | append : page.img}} )"> <i class="fa fa-external-link" aria-hidden="true"></i>
 
         {% if post.img %}
-          <img class="feat-image" src={{ "/images/" | prepend: site.baseurl | append: post.img }} alt="{{post.title}}">
+          <img class="recent_item" src={{ "/images/" | prepend: site.baseurl | append: post.img }} alt="{{post.title}}">
        {% endif %}
                 <span>{{ post.title }}</span>
             </a>
@@ -51,31 +51,7 @@ layout: default
       <br> 
        {% include share-bar.html %}
       <br> 
-           
-       
- <ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
-       
-        {% for post in site.posts %}
-    <div class="box" style="background-color:#{{post.color}}">
-       <a href="{{post.url | prepend: site.baseurl}}">
-       {% if post.img %}
-          <img class="feat-image" src={{ "/images/" | prepend: site.baseurl | append: post.img }} alt="{{post.title}}">
-       {% endif %}
-          <div class="container">
-           <font color="white"><h4>{{post.title}}</h4></font> 
-           <font color="white"><p>{{post.description}}</p></font> 
-           <font color="white"><div class="action">{{ post.date | date: '%B %d, %Y' }} Leer más<i class="fa fa-arrow-right fa-2x fa-fw" aria-hidden="true"></i></div></font> 
-        </div> 
-        </a>
-    </div>
-   {% endfor %}
-       
+   
        
     </article>
             {% if page.categories %}
