@@ -21,15 +21,8 @@ layout: default
             <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d997.4363801462447!2d-78.42855955483239!3d-0.346120003025934!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x91d5bc5f0b638cbb%3A0xd93b9b7001cabe09!2sAv.%20Juan%20Salinas%20%26%20Paraiso%2C%20Sangolqu%C3%AD!5e0!3m2!1ses-419!2sec!4v1604538874587!5m2!1ses-419!2sec" width="500" height="300" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
          </div>
       </center>
-   
-      <center>
-         Sangolquí - Ecuador <i class="fa fa-map-marker" aria-hidden="true"></i>
-      </center>
-      <br> 
-       {% include share-bar.html %}
-      <br> 
        
-   <section class="recent_box">
+   <section class="recent_box"> <!-- Inicio Section Recent Box -->
     <div class="post_wrapper">
       <h2 class="recent_title">Otros productos</h2>
       <div class="recent_list">
@@ -37,7 +30,8 @@ layout: default
           {% if post.title %}
             <a href="{{ post.url | prepend: site.baseurl }}"
               class="recent_item"
-              style="background-image: url( {{ "/assets/img/" | prepend: site.baseurl | append : post.img}} )">
+              style="background-image: url( {{ "/assets/img/" | prepend: site.baseurl | append : post.img}} )"> <i class="fa fa-external-link" aria-hidden="true"></i>
+
                 <span>{{ post.title }}</span>
             </a>
           {% endif %}
@@ -45,8 +39,14 @@ layout: default
       </div>
     </div>
   </section> <!-- End Section Recent Box -->
-       
-      
+   
+      <center>
+         Sangolquí - Ecuador <i class="fa fa-map-marker" aria-hidden="true"></i>
+      </center>
+      <br> 
+       {% include share-bar.html %}
+      <br> 
+           
        
        
     </article>
