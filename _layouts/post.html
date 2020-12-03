@@ -39,7 +39,7 @@ layout: default
        {% if post.img %}
           <img class="recent_item" src={{ "/images/" | prepend: site.baseurl | append: post.img }} alt="{{post.title}}">
        {% endif %}
-                <span>{{ post.title }}</span>
+                <span><h2>{{ post.title }}</h2></span>
             </a>
           {% endif %}
         {% endfor %}
