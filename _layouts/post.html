@@ -36,6 +36,9 @@ layout: default
               class="recent_item"
               style="background-image: url( {{ "/assets/img/" | prepend: site.baseurl | append : page.img}} )"> <i class="fa fa-external-link" aria-hidden="true"></i>
 
+        {% if post.img %}
+          <img class="feat-image" src={{ "/images/" | prepend: site.baseurl | append: post.img }} alt="{{post.title}}">
+       {% endif %}
                 <span>{{ post.title }}</span>
             </a>
           {% endif %}
