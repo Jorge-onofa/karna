@@ -30,7 +30,7 @@ layout: default
     <div class="post_wrapper">
       <h2 class="recent_title">Otros productos</h2>
       <div class="recent_list">
-        {% for post in site.posts offset:0 limit:9 %}
+        {% for post in site.posts offset:0 limit:6 %}
           {% if post.title %}
             <a href="{{ post.url | prepend: site.baseurl }}"
               class="recent_item"
