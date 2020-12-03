@@ -34,10 +34,8 @@ layout: default
           {% if post.title %}
             <a href="{{ post.url | prepend: site.baseurl }}"  
             class="recent_item"
-            style="background-image: url( {{ "/assets/img/" | prepend: site.baseurl | append : page.img}} )"> 
-       {% if post.img %}
-          <img class="recent_item" src={{ "/images/" | prepend: site.baseurl | append: post.img }} alt="{{post.title}}"">
-       {% endif %}
+            style="background-image: url( {{ "/images/"  | prepend: site.baseurl | append : post.img}} )"> 
+
                 <span>{{ post.title }}</span>
             </a>
           {% endif %}
