@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Horno"
-description: Horno...
+title:  "Productos yanbal en stock"
+description: Precios...
 date:   2020-10-22 10:51:47 +0530
 categories: jekyll update
-img: portada-horno.jpg
+img: stock-yanbal.jpg
 categories: [one, two]
 color: bb1190
 author: Jorge
