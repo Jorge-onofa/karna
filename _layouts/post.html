@@ -25,12 +25,16 @@ layout: default
       <center>
          Sangolquí - Ecuador <i class="fa fa-map-marker" aria-hidden="true"></i>
       </center>
-       
+       ***
+      <br> 
+       {% include share-bar.html %}
+      <br> 
+       ***
    <section class="recent_box"> <!-- Inicio Section Recent Box -->
     <div class="post_wrapper">
       <h2 class="recent_title">Otros productos</h2>
       <div class="recent_list">
-        {% for post in site.posts offset:0 limit:9 %}
+        {% for post in site.posts offset:0 limit:12%}
           {% if post.title %}
             <a href="{{ post.url | prepend: site.baseurl }}"  
             class="recent_item"
@@ -45,9 +49,7 @@ layout: default
   </section> <!-- End Section Recent Box -->
    
 
-      <br> 
-       {% include share-bar.html %}
-      <br> 
+
    
        
     </article>
