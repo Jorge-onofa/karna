@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Andamios!"
+title:  "Andamios en Sangolquí"
 description: Andamios venta y alquiler...
 date:   2020-11-14 18:03:47 +0530
 categories: jekyll update
