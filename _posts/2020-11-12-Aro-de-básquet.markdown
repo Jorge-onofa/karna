@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Aro de básquet"
-description: Aro de básquet... 
+title:  "Aro de básquet en Sangolquí"
+description: Aro de básquet Valle de los Chillos
 categories: jekyll update
 img: portada-aro.jpg
 categories: one
