@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Prensa hidráulica"
-description: Prensa hidráulica 
+title:  "Prensa hidráulica Sangolquí"
+description: Prensa hidráulica Valle de los Chillos
 date:  2020-11-12 10:51:47 +0530
 categories: jekyll update
 img: portada-prensa.jpg
