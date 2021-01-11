@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Sargentos metálicos"
-description: Sargentos...
+title:  "Sargentos metálicos Sangolquí"
+description: Sargentos Sangolquí
 date:   2020-11-10 10:50:47 +0530
 categories: jekyll update
 img: portada-sargentos.jpg
