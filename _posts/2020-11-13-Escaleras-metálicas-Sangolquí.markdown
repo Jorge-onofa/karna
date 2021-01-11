@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Escaleras"
-description:   
+title:  "Escaleras metálicas Sangolquí"
+description: Escaleras metálicas Valle de los Chillos  
 date:   2020-11-13 10:51:47 +0530
 categories: jekyll update
 img: portada-escaleras.jpg
