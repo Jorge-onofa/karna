@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Horno"
+title:  "Horno metálico artesanal Sangolquí"
 description: Horno artesanal Sangolquí
 date:   2020-10-22 10:51:47 +0530
 categories: jekyll update
