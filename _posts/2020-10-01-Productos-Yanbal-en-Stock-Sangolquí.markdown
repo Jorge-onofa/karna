@@ -10,7 +10,7 @@ color: bb1190
 author: Jorge
 ---
 <center>
-<img src= https://res.cloudinary.com/dpky6fcf6/image/upload/v1611093969/Blog-Betty/Portadas/blogbetty_p0wyzi.png />
+<img src= "https://res.cloudinary.com/dpky6fcf6/image/upload/c_scale,h_487,w_864/v1611093969/Blog-Betty/Portadas/blogbetty_p0wyzi.png" />
 </center>
 
 [logo2]: https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/sitio.jpg
