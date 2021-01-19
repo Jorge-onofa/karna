@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Aro de básquet en Sangolquí"
+title:  "Aro de básquet metálico Sangolquí"
 description: Aro de básquet Valle de los Chillos
 categories: jekyll update
 img: portada-aro.jpg
