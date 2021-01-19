@@ -10,7 +10,7 @@ color: bb1190
 author: Jorge
 ---
 <center>
-<img src="https://res.cloudinary.com/dpky6fcf6/image/upload/v1610989396/Blog-Betty/Portadas/portada-crema1_wynali.jpg />
+<img src= https://res.cloudinary.com/dpky6fcf6/image/upload/v1610989396/Blog-Betty/Portadas/portada-crema1_wynali.jpg />
 </center>
 
 [logo2]: https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/sitio.jpg
