@@ -18,7 +18,7 @@ author: Jorge
 
 
 <center>
-<img src="https://res.cloudinary.com/dpky6fcf6/image/upload/c_scale,h_618,w_773/v1611077375/Blog-Jorge/parrilla4_kew2ck.jpg" width="350" height="450" />
+<img src="https://res.cloudinary.com/dpky6fcf6/image/upload/c_scale,h_618,w_773/v1611077436/Blog-Jorge/parrilla4_ezu6d9.jpg" />
 </center>
 
 <br>
@@ -30,11 +30,11 @@ author: Jorge
 <br>
 
 <center>
-<img src="https://res.cloudinary.com/dpky6fcf6/image/upload/c_scale,h_722,w_1281/v1611077424/Blog-Jorge/parrilla2_ugcm4y.jpg" width="350" height="450" />
+<img src="https://res.cloudinary.com/dpky6fcf6/image/upload/c_scale,h_722,w_1281/v1611077424/Blog-Jorge/parrilla2_ugcm4y.jpg" />
 </center>
 
 <br>
 
 <center>
-<img src="https://res.cloudinary.com/dpky6fcf6/image/upload/c_scale,h_706,w_778/v1611077472/Blog-Jorge/parrilla5_sjswyz.jpg" width="350" height="450" />
+<img src="https://res.cloudinary.com/dpky6fcf6/image/upload/c_scale,h_706,w_778/v1611077472/Blog-Jorge/parrilla5_sjswyz.jpg"  />
 </center>
