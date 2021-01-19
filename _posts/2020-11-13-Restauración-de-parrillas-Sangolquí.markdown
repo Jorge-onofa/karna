@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Parrillas"
-description:   
+title:  "Parrillas Sangolquí"
+description: Restauración y construcción de parrillas en Sangolquí   
 date:   2020-11-13 10:51:47 +0530
 categories: jekyll update
 img: portada-parrilla.jpg
