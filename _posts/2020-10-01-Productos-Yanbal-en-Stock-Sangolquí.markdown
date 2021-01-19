@@ -2,7 +2,7 @@
 layout: post
 title:  "Productos yanbal en stock Sangolquí"
 description: Precios...
-date:   2020-10-22 10:51:47 +0530
+date:  2020-10-22 10:51:47 +0530
 categories: jekyll update
 img: stock-yanbal.jpg
 categories: [one, two]
