@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Dispensador de Gel Sangolquí"
+title:  "Dispensador de Gel a pedal Sangolquí"
 description: Dispensador de gel a pedal artesanal Valle de los Chillos...
 date:   2020-11-14 10:51:47 +0530
 categories: jekyll update
