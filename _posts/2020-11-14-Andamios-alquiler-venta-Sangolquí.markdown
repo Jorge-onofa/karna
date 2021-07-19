@@ -13,7 +13,7 @@ author: Jorge
 2. Espesor del tubo andamio 2 mm
 3. Diámetro del tubo tijera 25 mm
 4. Espesor del tubo tijera 1.5 mm
-5. <b style='color:green'> $ Alquiler piso </b>  
+5. <b style='color:green'> Alquiler piso </b>  
 
 <center>
 <img src="https://raw.githubusercontent.com/Jorge-onofa/karna/gh-pages/images/andamios7.jpg" width="300" height="400" />
