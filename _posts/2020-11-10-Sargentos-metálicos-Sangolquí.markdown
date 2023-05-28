@@ -26,8 +26,4 @@ author: Jorge
 </center>
 <br>
 
-[logo]: https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/linkw.jpg
-[dipensador]: https://api.whatsapp.com/send?phone=593999378989&text=%C2%A1Hola!%20Me%20interesa%20los%20sargentos%20met%C3%A1licos "clic para abrir chat de whatsapp"
-[![logo de yanbal][logo]][dipensador]
-
 
