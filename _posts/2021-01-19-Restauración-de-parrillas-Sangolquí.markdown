@@ -12,11 +12,6 @@ author: Jorge
 1. Parrilla de cualquier tamaño
 2. Acero inoxidable
 
-[logo]: https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/linkw.jpg
-[dipensador]: https://api.whatsapp.com/send?phone=593999378989&text=%C2%A1Hola!%20Me%20interesa%20una%20parrilla "clic para abrir chat de whatsapp"
-[![logo de yanbal][logo]][dipensador]
-
-
 <center>
 <img src="https://res.cloudinary.com/dpky6fcf6/image/upload/c_scale,h_618,w_773/v1611077436/Blog-Jorge/parrilla4_ezu6d9.jpg" />
 </center>
