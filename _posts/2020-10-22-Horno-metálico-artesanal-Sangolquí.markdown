@@ -12,10 +12,3 @@ author: Jorge
 1. Horno acero inoxidable
 2. Manualmente o con motor 
 
-[logo]: https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/linkw.jpg
-[dipensador]: https://api.whatsapp.com/send?phone=593999378989&text=%C2%A1Hola!%20Me%20interesa%20el%20horno "clic para abrir chat de whatsapp"
- [![logo de yanbal][logo]][dipensador]
-
-
-
-
