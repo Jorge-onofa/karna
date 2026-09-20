@@ -13,6 +13,3 @@ author: Jorge
 <img src= "https://res.cloudinary.com/dpky6fcf6/image/upload/c_scale,h_487,w_864/v1611093969/Blog-Betty/Portadas/blogbetty_p0wyzi.png" />
 </center>
 
-[logo2]: https://raw.githubusercontent.com/Betty-C/bef/gh-pages/assets/img/sitio.jpg
-[yanbal]: https://betty-c.github.io/bef/ "clic para visitar Stock Betty"
-[![logo de yanbal][logo2]][yanbal]
